@@ -136,4 +136,5 @@ The ODE model is built for studying the biofilm formation in E. coli, considerin
 	Argument 3 - The control run data(WILD TYPE) obtained as a csv from the earlier script is used to obtain the control condition Amount of the species perturbed.
 
 
-
+# Rawdata_studies
+	The folder contains the raw data for the studies presented in the manuscript. Each folder contains the model file pertaining to the perturbation and the corresponding result.
