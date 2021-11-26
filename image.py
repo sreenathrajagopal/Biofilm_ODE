@@ -28,7 +28,7 @@ def Image(title_name,species_perturbed,species_plotted,result_file):
                         mode='lines',name=na))
     fig.update_layout(title=title_name,
                        xaxis_title='Time (seconds)',
-                       yaxis_title='Concentration (uM)')
+                       yaxis_title='Concentration (A.U)')
     fig.update_layout(
         yaxis = dict(
             showexponent = 'all',
